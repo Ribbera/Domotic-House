@@ -1,2 +1,2 @@
 # Domotic-House
-Developing Project, soon there will be an update.
+You are free to use it and modify it
